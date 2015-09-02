@@ -8,9 +8,9 @@
  ( ` _)  (  -~( -_ `,  }    / / / / / /  __/ /_/ /_/ / /__/ /_/ / /_/ /    
  (_-  _  ~_-~~~~`,  ,' )   /_/ /_/ /_/\___/\__/\__,_/\___/\____/\__, /     
    `~ -^(    __;-,((()))                                       /____/    
-         ~~~~ {_ -_(())   MetaCog SSH Server - Be nice, don't break
-                `\  }     shit. I will dump this server weekly, so
-                  { }     no dependencies. Back up early & often.
+         ~~~~ {_ -_(())   MetaCog ID Repository
+                `\  }     GPG/PGP Key fingerprint: 6FA3A774
+                  { }     
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ```
